@@ -73,7 +73,11 @@ i{
 }
 
 #about-me{
-    position: relative;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 50%;
 }
 
 #voidbox-title{
@@ -109,5 +113,17 @@ i{
     padding: 15px;
     width: 40%;
     height: min-content;
-    margin: 15px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#languages{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 50%;
+    font-size: 50px;
 }
