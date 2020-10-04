@@ -1,0 +1,64 @@
+@font-face{
+    font-family: nerd;
+    src: url('fonts/DejaVu\ Sans\ Mono\ Nerd\ Font\ Complete.ttf')
+}
+body{
+    background-color: #292929;
+    font-family: 'nerd','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    padding: 5px;
+    background-color: white;
+    width: max-content;
+    border: black medium solid;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+  }
+
+.photo_me{
+    width: 270px;
+    height: 480px;
+    background-color: white;
+    padding: 15px;
+    border: black medium solid;
+    position: relative;
+    left: 60%;
+    
+}
+
+#title{
+    padding: 200px;
+    padding-right: 25%;
+    padding-left: 25%;
+    font-size: 60px;
+    margin: 0px;
+}
+
+#about-me{
+    position: relative;
+}
