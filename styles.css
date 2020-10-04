@@ -21,7 +21,7 @@ h2{
 
 h3{
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     font-style: bold;
 } 
 
@@ -56,6 +56,14 @@ ul{
     
 }
 
+#links{
+    font-size: 50px;
+}
+
+i{
+    size: 20px;
+}
+
 #title{
     padding: 200px;
     padding-right: 25%;
@@ -66,4 +74,40 @@ ul{
 
 #about-me{
     position: relative;
+}
+
+#voidbox-title{
+    color: #33cc33;
+}
+
+#voidbox-body{
+    color: white;
+    font-size: 20px;
+}
+
+#fwf-title{
+    color: #1f8e60;
+}
+
+#byteme20-title{
+    color: #db7425;
+}
+
+#byteme-title{
+    color: #255edb;
+}
+#void-image{
+    width: 40%;
+    height: 300px;
+    position: relative;
+    bottom: 300px;
+    left: 50%;
+}
+
+.project{
+    border: white thick solid;
+    padding: 15px;
+    width: 40%;
+    height: min-content;
+    margin: 15px;
 }
