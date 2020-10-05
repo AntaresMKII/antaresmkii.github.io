@@ -16,18 +16,18 @@ h2{
     background-color: white;
     width: max-content;
     border: black medium solid;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 h3{
     color: white;
-    font-size: 30px;
+    font-size: 35px;
     font-style: bold;
 } 
 
 p{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 a{
@@ -36,13 +36,13 @@ a{
 
 ul{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .center {
     margin: auto;
     text-align: center;
-    width: 50%;
+    width: 50vw;
   }
 
 .photo_me{
@@ -52,7 +52,7 @@ ul{
     padding: 15px;
     border: black medium solid;
     position: relative;
-    left: 60%;
+    left: 60vw;
     
 }
 
@@ -66,9 +66,9 @@ i{
 
 #title{
     padding: 200px;
-    padding-right: 25%;
-    padding-left: 25%;
-    font-size: 60px;
+    padding-right: 25vw;
+    padding-left: 25vw;
+    font-size: 70px;
     margin: 0px;
 }
 
@@ -76,7 +76,7 @@ i{
     margin: auto;
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 50%;
+    width: 50vw;
 }
 
 #voidbox-title{
@@ -85,7 +85,7 @@ i{
 
 #voidbox-body{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #fwf-title{
@@ -100,17 +100,17 @@ i{
     color: #255edb;
 }
 #void-image{
-    width: 40%;
+    width: 40vw;
     height: 300px;
     position: relative;
     bottom: 300px;
-    left: 50%;
+    left: 50vw;
 }
 
 .project{
     border: white thick solid;
     padding: 15px;
-    width: 40%;
+    width: 40vw;
     height: min-content;
     margin: auto;
     margin-top: 15px;
@@ -123,10 +123,18 @@ i{
     margin-top: 15px;
     margin-bottom: 15px;
     text-align: center;
-    width: 50%;
-    font-size: 50px;
+    width: 50vw;
+    font-size: 60px;
 }
 
 #languages-text{
-    font-size: 15px;
+    font-size: 20px;
+}
+
+#contact{
+    color: black;
+    font-size: 30px;
+    border: black medium solid;
+    background-color: white;
+    width: 40vw;
 }
