@@ -107,6 +107,10 @@ i{
     left: 50vw;
 }
 
+#codefit-title{
+    color: #292c82
+}
+
 .project{
     border: white thick solid;
     padding: 15px;
